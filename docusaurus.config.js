@@ -53,6 +53,18 @@ const config = {
                     position: 'left',
                     label: 'Tutorial',
                 },
+                {
+                    type: 'doc',
+                    docId: 'angular',
+                    label: 'Angular',
+                    position: 'left',
+                },
+                {
+                    type: 'doc',
+                    docId: 'kivala',
+                    label: 'Kivala',
+                    position: 'left',
+                },
                 { to: '/blog', label: 'Blog', position: 'left' },
                 {
                     href: 'https://github.com/facebook/docusaurus',
