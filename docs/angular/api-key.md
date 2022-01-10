@@ -3,7 +3,7 @@
 Démarche à suivre pour utiliser une API key dans un projet Angular
 
 
-Avant de passer à la suite, consulter et suivre la doc. [suivante](/doc/fichier-secrets-dans-une-appli-angular-1nPUc3ypVL)
+Avant de passer à la suite, consulter et suivre la doc. [suivante](fichier-secrets-dans-appli-angular)
 
 
 Dans src/app/core-services, créer un dossier “auth” et y ajouter les fichiers suivants
